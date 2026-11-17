@@ -5,7 +5,7 @@ Claude plugin that finds Indian Railways trains with a seat between two stations
 ## Install
 
 ```
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add railfanhs/railjournal-seat-radar-claude
 /plugin install railjournal-seat-radar@railjournal
 ```
 
