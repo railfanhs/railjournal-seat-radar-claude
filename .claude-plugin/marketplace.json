@@ -1,0 +1,15 @@
+{
+  "name": "railjournal",
+  "description": "RailJournal plugins for Indian Railways",
+  "owner": {
+    "name": "RailJournal",
+    "email": "railjournalindia@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "railjournal-seat-radar",
+      "source": "./plugins/railjournal-seat-radar",
+      "description": "Seat Radar: find confirmed seats between two Indian Railways stations"
+    }
+  ]
+}

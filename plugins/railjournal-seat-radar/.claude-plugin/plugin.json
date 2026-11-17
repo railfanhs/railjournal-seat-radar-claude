@@ -1,0 +1,15 @@
+{
+  "name": "railjournal-seat-radar",
+  "displayName": "RailJournal Seat Radar",
+  "version": "1.0.0",
+  "description": "Find Indian Railways trains with confirmed seats between two stations, and rank waitlisted options, using RailJournal.",
+  "author": {
+    "name": "RailJournal",
+    "email": "railjournalindia@gmail.com",
+    "url": "https://railjournal.in"
+  },
+  "homepage": "https://railjournal.in/find-seats.php",
+  "keywords": ["indian-railways", "seat-availability", "seat-radar", "mcp"],
+  "privacyPolicyUrl": "https://railjournal.in/chatgpt/privacy.html",
+  "termsOfServiceUrl": "https://railjournal.in/terms.php"
+}
