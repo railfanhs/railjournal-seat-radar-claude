@@ -1,6 +1,8 @@
 {
   "name": "railjournal",
-  "description": "RailJournal plugins for Indian Railways",
+  "metadata": {
+    "description": "RailJournal plugins for Indian Railways"
+  },
   "owner": {
     "name": "RailJournal",
     "email": "railjournalindia@gmail.com"

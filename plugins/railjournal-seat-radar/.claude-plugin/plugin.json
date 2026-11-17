@@ -2,6 +2,7 @@
   "name": "railjournal-seat-radar",
   "displayName": "RailJournal Seat Radar",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "Find Indian Railways trains with confirmed seats between two stations, and rank waitlisted options, using RailJournal.",
   "author": {
     "name": "RailJournal",
