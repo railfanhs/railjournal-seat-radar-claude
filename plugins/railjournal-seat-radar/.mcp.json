@@ -2,7 +2,7 @@
   "mcpServers": {
     "railjournal-seat-radar": {
       "type": "http",
-      "url": "https://railjournal.in/chatgpt/mcp.php"
+      "url": "https://railjournal.in/AI_plugins/SeatRadar/mcp.php"
     }
   }
 }
